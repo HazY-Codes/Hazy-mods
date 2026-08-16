@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 Features
+## Features
 
 `hazy-mods` provides elevated ADB-level customization directly on-device—no root required, zero background battery drain, and no tripping Play Integrity or Knox flags.
 
@@ -23,7 +23,7 @@
 
 ---
 
-## 📋 Requirements
+## Requirements
 
 * **Android OS:** Android 10 or higher
 * **Terminal Shell:** [Termux](https://f-droid.org/packages/com.termux/) or LADB
@@ -31,7 +31,7 @@
 
 ---
 
-## 📦 Quick Start
+## Quick Start
 
 Navigate to your local project folder in Termux and execute the suite:
 
